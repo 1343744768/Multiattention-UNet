@@ -81,15 +81,16 @@ It is worth noting that since these two datasets do not have any background, but
 
 Details of MA-UNet
 ------------------------
- * Please cite our papers if the code is useful for you. Thank you!
+ * Please cite our papers if the code is useful for you. Thank you! <br>
 MDPI and ACS Style<br>
-Sun, Y.; Bi, F.; Gao, Y.; Chen, L.; Feng, S. A Multi-Attention UNet for Semantic Segmentation in Remote Sensing Images. Symmetry 2022, 14, 906. https://doi.org/10.3390/sym14050906 <br>
+ *Sun, Y.; Bi, F.; Gao, Y.; Chen, L.; Feng, S. A Multi-Attention UNet for Semantic Segmentation in Remote Sensing Images. Symmetry 2022, 14, 906. https://doi.org/10.3390/sym14050906 <br>
 
-AMA Style<br>
-Sun Y, Bi F, Gao Y, Chen L, Feng S. A Multi-Attention UNet for Semantic Segmentation in Remote Sensing Images. Symmetry. 2022; 14(5):906. https://doi.org/10.3390/sym14050906 <br>
+*AMA Style<br>
+ *Sun Y, Bi F, Gao Y, Chen L, Feng S. A Multi-Attention UNet for Semantic Segmentation in Remote Sensing Images. Symmetry. 2022; 14(5):906. https://doi.org/10.3390/sym14050906 <br>
 
-Chicago/Turabian Style<br>
-Sun, Yu, Fukun Bi, Yangte Gao, Liang Chen, and Suting Feng. 2022. "A Multi-Attention UNet for Semantic Segmentation in Remote Sensing Images" Symmetry 14, no. 5: 906. https://doi.org/10.3390/sym14050906 <br>
+*Chicago/Turabian Style<br>
+ *Sun, Yu, Fukun Bi, Yangte Gao, Liang Chen, and Suting Feng. 2022. "A Multi-Attention UNet for Semantic Segmentation in Remote Sensing Images" Symmetry 14, no. 5: 906. https://doi.org/10.3390/sym14050906 <br>
+
 Reference
 ------------------------
 https://github.com/bubbliiiing/unet-pytorch  <br>
