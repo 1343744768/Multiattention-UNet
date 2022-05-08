@@ -14,7 +14,7 @@ Preparation of datasets
 1. All data should be placed in directory “VOCdevkit/VOC2007/”. <br>
    * The name of original image and its corresponding label must be consistent, their format can be different(important) <br>
       `Image: cat_00001.jpg ; Label: cat_00001.png`
-2. Put all the original images in folder “JPEGImages” and all the labels in folder SegmentationClass.<br>
+2. Put all the original images in folder “JPEGImages” and all the labels in folder “SegmentationClass”.<br>
    * The default format is that the original image is ".jpg" format, the label is ".png" format. <br>
    * If your dataset format is different, please modify the format in the 82 and 83 lines of code in folder "utils/dataloader.py", as follow: <br>
        `jpg = Image.open(os.path.join(os.path.join(self.dataset_path, "VOC2007/JPEGImages"), name + ".jpg"))` <br>
