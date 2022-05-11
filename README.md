@@ -79,9 +79,9 @@ It is worth noting that since these two datasets do not have any background, but
       `line53 image_path= os.path.join(VOCdevkit_path, "VOC2007/JPEGImages/"+image_id+".png")` Change to your images format <br>
    (2) Run "get_miou_for_custom_datasets.py". 
 
-Details of MA-UNet
+Details of Multi-Attention UNet
 ------------------------
-You can learn the details of MA-UNet through the paper as follow, and please cite our papers if the code is useful for you. Thank you! <br>
+You can learn the details of Multi-Attention UNet through the paper as follow, and please cite our papers if the code is useful for you. Thank you! <br>
  * MDPI and ACS Style <br>
 Sun, Y.; Bi, F.; Gao, Y.; Chen, L.; Feng, S. A Multi-Attention UNet for Semantic Segmentation in Remote Sensing Images. Symmetry 2022, 14, 906. https://doi.org/10.3390/sym14050906 <br>
 
