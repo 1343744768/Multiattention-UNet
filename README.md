@@ -1,5 +1,5 @@
 # Multi-Attention UNet
-UNet based on multi-visual-attention, include simAM, multi-head self attention, channel attention, spatial attention.
+UNet based on multi-visual-attention, including simAM, multi-head self attention, channel attention, spatial attention.
 
 Quick Start Examples
 ========================
