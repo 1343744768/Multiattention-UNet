@@ -82,6 +82,9 @@ It is worth noting that since these two datasets do not have any background, but
 Details of Multi-Attention UNet
 ------------------------
 You can learn the details of Multi-Attention UNet through the paper as follow, and please cite our papers if the code is useful for you. Thank you! <br>
+You can download the model through the following link: <br>
+https://pan.baidu.com/s/16Kv_pJVjjLKt1c0njHuGHw  <br>
+code：pyfz
  * MDPI and ACS Style <br>
 Sun, Y.; Bi, F.; Gao, Y.; Chen, L.; Feng, S. A Multi-Attention UNet for Semantic Segmentation in Remote Sensing Images. Symmetry 2022, 14, 906. https://doi.org/10.3390/sym14050906 <br>
 
