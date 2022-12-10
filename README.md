@@ -1,5 +1,7 @@
 # Multi-Attention UNet
-UNet based on multi-visual-attention, including simAM, multi-head self attention, channel attention, spatial attention.
+UNet based on multi-visual-attention, including simAM, multi-head self attention, channel attention, spatial attention. <br>
+See the link below for a stronger and more extensible version of the model. <br> 
+https://github.com/1343744768/Scaled-MA-Unet
 
 Quick Start Examples
 ========================
